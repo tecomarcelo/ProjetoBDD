@@ -1,14 +1,4 @@
-﻿# Feature: CriarContaDeUsuario
-# 
-# A short summary of the feature
-# 
-# @tag1
-# Scenario: [scenario name]
-# 	Given [context]
-# 	When [action]
-# 	Then [outcome]
-
-#language: pt
+﻿#language: pt
 
 Funcionalidade: Criar conta de usuário
 	Como um usuário do sistema
